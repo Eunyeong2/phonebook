@@ -1,0 +1,12 @@
+/home/enong/cw-phonebook/target/debug/deps/cosmwasm_schema-fd61ae3ec391d5cd.rmeta: /home/enong/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-1.1.5/src/lib.rs /home/enong/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-1.1.5/src/casing.rs /home/enong/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-1.1.5/src/export.rs /home/enong/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-1.1.5/src/idl.rs /home/enong/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-1.1.5/src/query_response.rs /home/enong/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-1.1.5/src/remove.rs
+
+/home/enong/cw-phonebook/target/debug/deps/libcosmwasm_schema-fd61ae3ec391d5cd.rlib: /home/enong/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-1.1.5/src/lib.rs /home/enong/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-1.1.5/src/casing.rs /home/enong/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-1.1.5/src/export.rs /home/enong/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-1.1.5/src/idl.rs /home/enong/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-1.1.5/src/query_response.rs /home/enong/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-1.1.5/src/remove.rs
+
+/home/enong/cw-phonebook/target/debug/deps/cosmwasm_schema-fd61ae3ec391d5cd.d: /home/enong/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-1.1.5/src/lib.rs /home/enong/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-1.1.5/src/casing.rs /home/enong/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-1.1.5/src/export.rs /home/enong/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-1.1.5/src/idl.rs /home/enong/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-1.1.5/src/query_response.rs /home/enong/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-1.1.5/src/remove.rs
+
+/home/enong/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-1.1.5/src/lib.rs:
+/home/enong/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-1.1.5/src/casing.rs:
+/home/enong/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-1.1.5/src/export.rs:
+/home/enong/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-1.1.5/src/idl.rs:
+/home/enong/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-1.1.5/src/query_response.rs:
+/home/enong/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-1.1.5/src/remove.rs:
